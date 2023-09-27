@@ -2,7 +2,8 @@
 
 ## Sobre
 
-O checkout-api é o responsável por todas as compras realizadas
+O checkout-api é o responsável pelo processo de compra.
+
 Essa aplicação está desacoplada, seguindo boas práticas de Arquitetura Limpa, bem como os princípios do SOLID.
 
 ## Estrutura
