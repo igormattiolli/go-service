@@ -1,11 +1,8 @@
-<img src="docs/assego/blue-logo-stargoe.svg" alt="Logo Stargoe" width="250">
-
 # Checkout API
 
 ## Sobre
 
-O checkout-api é o responsável por todas as compras realizadas pelo checkout v3, que está mantido no repositório https://github.com/Stargoe/checkout-web.
-
+O checkout-api é o responsável por todas as compras realizadas
 Essa aplicação está desacoplada, seguindo boas práticas de Arquitetura Limpa, bem como os princípios do SOLID.
 
 ## Estrutura
